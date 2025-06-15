@@ -1,3 +1,1 @@
-https://anilist.co/anime/99088 [E8("anan","99088.e8.srt")],
-https://anilist.co/anime/136265 [E1("anan","136265.e1.srt","136265.b1.ass")],
-https://anilist.co/anime/126657 [E1("anani","126657.e1.srt","126657.b1.ass")]
+
