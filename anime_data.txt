@@ -1,2 +1,3 @@
 https://anilist.co/anime/118045 [E1("ilove","118045.e1.srt","118045.b1.ass")],
-https://anilist.co/anime/99088 [E4("annen","99088.e4.srt","99088.b4.ass"),E8("oc","99088.e8.srt","99088.b8.ass")]
+https://anilist.co/anime/99088 [E4("annen","99088.e4.srt","99088.b4.ass"),E8("oc","99088.e8.srt","99088.b8.ass")],
+https://anilist.co/anime/183275 [E1("annen","183275.e1.srt","183275.b1.ass")]
